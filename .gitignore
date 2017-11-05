@@ -2,3 +2,4 @@
 /**/*.psd
 /**/Thumbs.db
 /dist
+.publish
